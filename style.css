@@ -1,0 +1,25 @@
+body {
+    background-color: #288080;
+    color: white;
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    color:rgb(240, 74, 8);
+    font-size: 35px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.texto-inglês {
+   font-style: italic; 
+}
+
+#nome-usuário {
+    font-weight: bold;
+    font-size: 20px;
+}
