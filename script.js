@@ -7,8 +7,8 @@ function inserirNome (){
 
 inserirNome();
 
-let disciplinass = ["Português", "Matemática","Física", "Química"];
+let disciplinas = ["Português", "Matemática","Física", "Química"];
 
 const item = document.querySelector("#lista");
-item.textContent = linguagens[0] + ' - ' +  linguagens[1] + ' - ' +  linguagens[2] + ' - ' +  linguagens[3];
-//item.textContent = linguagens; 
+item.textContent = disciplinas[0] + ' - ' +  disciplinas[1] + ' - ' +  disciplinas[2] + ' - ' +  disciplinas[3];
+
